@@ -2,6 +2,13 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+/**
+ * MyBigNumberTest is a unit test class that validates the correctness of
+ * operations implemented in the MyBigNumber class.
+ * @author Johanna Ngyen
+ * @version 0.0.2
+ * @see <a href ="https://github.com/johanna-nguyen/MyBigNumber">My Big Number</a>
+ */
 public class MyBigNumberTest {
     @Test
     public void testSum(){
